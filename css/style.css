@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Lucida Sans Unicode", sans-serif;
+}
+
+body {
+  background-color: #9f4d4d;
+}
+
+.country-flag {
+  width: 40px !important;
+  height: 30px !important;
+}
+
+.card {
+  width: 144px;
+}
+
+.country-box {
+  display: flex;
+  align-items: center;
+}
